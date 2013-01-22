@@ -1,4 +1,12 @@
-Define('DB_HOST', 'localhost');
+<?
+/**
+* Project Config
+*
+* @package MajorDoMo
+* @author Serge Dzheigalo <jey@tut.by> http://smartliving.ru/
+* @version 1.1
+*/
+ Define('DB_HOST', 'localhost');
  Define('DB_NAME', 'db_terminal');
  Define('DB_USER', 'root');
  Define('DB_PASSWORD', '');
